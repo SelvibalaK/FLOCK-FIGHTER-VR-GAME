@@ -8,7 +8,7 @@ Welcome to FLOCK-FIGHTER-VR-GAME, a beginner-level 2D VR game crafted to help pl
 
 # 🎮 Game Objective
    * Survive: Dodge the birds for as long as you can! The longer you last, the higher your score.
-   * Game Over: If a bird touches your character, the game ends, and your score is displayed.
+   * Game Over: If a bird touches your character, the game ends, and your score is displayed. 
 
 # 🛠️ Installation
 ## Prerequisites
