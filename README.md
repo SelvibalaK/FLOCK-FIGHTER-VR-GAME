@@ -13,14 +13,14 @@ Welcome to FLOCK-FIGHTER-VR-GAME, a beginner-level 2D VR game crafted to help pl
 # 🛠️ Installation
 ## Prerequisites
    To play this game, you'll need to install:
-       * Unity
-       * Visual Studio Code
+    *Unity
+    *Visual Studio Code
     
    ## Setup
-     * Clone or download this repository.
-     * Open the project in Unity.
-     * Run the game scene to start playing!
-     * All game assets are designed from scratch by me, giving it a unique touch. 🎨
+    *Clone or download this repository.
+    *Open the project in Unity.
+    *Run the game scene to start playing!
+    *All game assets are designed from scratch by me, giving it a unique touch. 🎨
 
 # 🎯 How to Play
    * Arrow Up: Move the character up.
